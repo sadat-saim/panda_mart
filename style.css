@@ -48,3 +48,7 @@ img:hover{
     background: linear-gradient(0deg, #FF5498,#FF1571);
     color: #fff;
 }
+
+.category img{
+    width: 30%;
+}
