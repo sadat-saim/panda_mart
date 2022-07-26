@@ -52,3 +52,16 @@ img:hover{
 .category img{
     width: 30%;
 }
+
+.shoes-section,.bags-section{
+    background-color: #F4F4F4;
+}
+
+footer{
+    background-color: #FCEAE8;
+}
+
+input[type="email"]{
+    width: 40%;
+}
+
